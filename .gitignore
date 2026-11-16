@@ -1,0 +1,15 @@
+# ---- SECRET: never upload your real API key ----
+sms_key.txt
+
+# ---- made by the program while running ----
+last_sms.txt
+
+# ---- compiled programs ----
+*.exe
+*.o
+parking
+parking_web
+test_vehicles
+test_order
+test_bill
+test_parking
